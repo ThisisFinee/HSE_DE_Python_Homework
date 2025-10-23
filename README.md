@@ -7,3 +7,7 @@
 ## Тема 2. Время и даты в Python
 - Общая папка выполнения первой работы [Homework_2](https://github.com/ThisisFinee/HSE_DE_Python_Homework/tree/93c77d5f0d106aa6ef3fc1f4659c1a27cb8e2ca4/Homework_2)
 - Решение двух заданий находится в файле [2.ipynb](https://github.com/ThisisFinee/HSE_DE_Python_Homework/blob/93c77d5f0d106aa6ef3fc1f4659c1a27cb8e2ca4/Homework_2/2.ipynb)
+## Тема	Тема 3. Библиотеки NumPy и Pandas. Визуализация данных
+- Общая папка выполнения третьей работы [Homework_3](https://github.com/ThisisFinee/HSE_DE_Python_Homework/tree/e7205771a4444169e834faf12f208312eb85a4e5/Homework_3)
+- Решение двух заданий находится в файле [3.ipynb](https://github.com/ThisisFinee/HSE_DE_Python_Homework/blob/e7205771a4444169e834faf12f208312eb85a4e5/Homework_3/3.ipynb)
+- Файл используемый при выполнении [Electronic_sales.csv](https://github.com/ThisisFinee/HSE_DE_Python_Homework/blob/e7205771a4444169e834faf12f208312eb85a4e5/Homework_3/Electronic_sales.csv)
