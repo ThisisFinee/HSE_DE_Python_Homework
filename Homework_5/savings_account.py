@@ -7,6 +7,9 @@ class SavingsAccount(Account):
         super().__init__(account_holder, balance)
         self.account_type = "savings"
         self.interest_rate = 0
+    
+    def _get_valid_operation_types(self):
+        return ["deposit", "withdraw", "interest"]
 
     def withdraw(self, amount):
         if amount <= 0:
